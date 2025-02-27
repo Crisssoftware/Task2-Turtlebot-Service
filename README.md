@@ -4,6 +4,9 @@ Your task is to create a ROS2 service that controls a TurtleBot3 in simulation. 
 ### Example:
 - If the service is called with the argument `5`, the TurtleBot3 should move forward at **1 m/s** for **5 seconds** before stopping.
 - If the service is called with `10`, the robot should move forward for **10 seconds** and then stop.
+- ```bash
+  ros2 run <package_name> <node_name> <no. of seconds>
+  ```
 
 By completing this task, you will:
 - Learn how to launch a TurtleBot3 simulation in a 3D environment.
