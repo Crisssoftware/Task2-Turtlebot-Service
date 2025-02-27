@@ -24,9 +24,6 @@ To complete this task, you need to install TurtleBot3 in ROS2. Follow the instal
 - [ROS2 Services](https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Service-And-Client.html)
 - [TurtleBot3 Official Documentation](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 
-## Submission
-Once you have completed the task, submit the python file(s) for the node(s) and a video of turtlebot moving by giving it a terminal command for a specific set of time.
-
 ## Additional Resources  
 You are encouraged to use external resources to understand the task better:  
 - **YouTube**: Feel free to watch videos explaining ROS 2 services and TurtleBot3 simulations.  
@@ -34,4 +31,7 @@ You are encouraged to use external resources to understand the task better:
 
 ### ⚠️ Important Note  
 You will be **asked extensively** about how your code works during the interview. Make sure you fully understand your implementation and can explain it in detail.
+
+## Submission
+Once you have completed the task, submit the python file(s) for the node(s) and a video of turtlebot moving by giving it a terminal command for a specific set of time.
 
