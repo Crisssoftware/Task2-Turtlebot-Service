@@ -21,7 +21,7 @@ To complete this task, you need to install TurtleBot3 in ROS2. Follow the instal
 - **ROS2 Jazzy**: [TurtleBot3 Installation for Jazzy](https://docs.google.com/document/d/19ObQR4qn6_gd6mIFPtyNoy-2SDMFzImgR2hkvHJMCIU/edit?usp=sharing)
 
 ## Reference Documentation
-- [ROS2 Services](https://docs.ros.org/en/foxy/Tutorials/Services/Creating-A-Simple-Service-And-Client-Py.html)
+- [ROS2 Services](https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Service-And-Client.html)
 - [TurtleBot3 Official Documentation](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 
 ## Submission
