@@ -13,7 +13,7 @@ By completing this task, you will:
 ## Prerequisites
 To complete this task, you need to install TurtleBot3 and set up ROS2. Follow the installation guides based on your ROS2 version:
 
-- **ROS2 Foxy**: [TurtleBot3 Installation for Foxy](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#ros-2-foxy)
+- **ROS2 Foxy**: [TurtleBot3 Installation for Foxy](http://blog.utem.edu.my/wira_yugi/ros2-and-turtlebot3-installation/)
 - **ROS2 Humble**: [TurtleBot3 Installation for Humble](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#ros-2-humble)
 - **ROS2 Jazzy**: [TurtleBot3 Installation for Jazzy](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#ros-2-jazzy)
 
