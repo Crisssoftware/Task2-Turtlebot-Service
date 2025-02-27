@@ -25,4 +25,4 @@ To complete this task, you need to install TurtleBot3 in ROS2. Follow the instal
 - [TurtleBot3 Official Documentation](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 
 ## Submission
-Once you have completed the task, submit your code as a pull request or share a link to your repository.
+Once you have completed the task, submit your code as a pull request on this repository.
