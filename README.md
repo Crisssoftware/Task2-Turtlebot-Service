@@ -27,10 +27,11 @@ To complete this task, you need to install TurtleBot3 in ROS2. Follow the instal
 ## Additional Resources  
 You are encouraged to use external resources to understand the task better:  
 - **YouTube**: Feel free to watch videos explaining ROS 2 services and TurtleBot3 simulations.  
-- **AI Tools**: You can use AI tools to clarify concepts, but **copying code directly from AI-generated responses is not allowed**. Trust me,we know when a code is AI-generated
-
+- **AI Tools**: You can use AI tools to clarify concepts, but **copying code directly from AI-generated responses is not allowed**.
+- 
 ### ⚠️ Important Note  
 You will be **asked extensively** about how your code works during the interview. Make sure you fully understand your implementation and can explain it in detail.
+And trust me, we know when a code is AI-generated
 
 ## Submission
 Once you have completed the task, submit the python file(s) for the node(s) and a video of turtlebot moving by giving it a terminal command for a specific set of time.
