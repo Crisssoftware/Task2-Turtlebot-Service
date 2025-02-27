@@ -1,6 +1,4 @@
 # TurtleBot3 Service Task
-
-## Task
 Your task is to create a ROS2 service that controls a TurtleBot3 in simulation. The service should accept an integer argument representing the number of seconds the robot should move forward at a constant speed of **1 m/s**.
 
 ### Example:
